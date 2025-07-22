@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.custom-view {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.custom-view > div {
+  flex: 1 1 0;
+}
